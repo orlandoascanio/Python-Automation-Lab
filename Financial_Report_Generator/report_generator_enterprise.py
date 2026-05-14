@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Enterprise Financial Report Generator
 Advanced version handling:
